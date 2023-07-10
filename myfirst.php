@@ -1,6 +1,11 @@
 <?php
 
 echo "hello<br>";
-echo "This is my first jenkin configuration- update3";
-echo "executed job2 as well take 1.";
-echo "executed job2 as well take 2.";
+                                                                        echo "This is my first jenkin configuration- update3";
+        echo "executed job2 as well take 1.";
+                echo "executed job2 as well take 2.";;
+if($test){
+echo "here";
+ }
+
+
