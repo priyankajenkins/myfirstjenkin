@@ -6,3 +6,4 @@ echo "This is my first jenkin configuration- update3";
         //if
 //test
 
+echo "test at Agu 23";
